@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">punto 3</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="circulo">Circulo</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="calcular">Calcular</string>
+    <string name="respuesta">Respuesta</string>
+    <string name="ladoc">LadoC</string>
+    <string name="baset">BaseT</string>
+    <string name="altura">Altura</string>
+    <string name="radio">Radio</string>
+    <string name="baser">BaseR</string>
+    <string name="lador">LadoR</string>
+
+
+
+</resources>

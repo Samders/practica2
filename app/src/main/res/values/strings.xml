@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Practica2</string>
+    <string name="formulario">Formulario</string>
+    <string name="loggin">Usuario</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="rcontraseña">Repetir contraseña</string>
+    <string name="correoe">E-mail</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="fecha">Fecha nacimiento</string>
+    <string name="lugar">Lugar de nacimiento</string>
+    <string name="cine">Cine</string>
+    <string name="futbol">Futbol</string>
+    <string name="videojuegos">Videojuegos</string>
+    <string name="musica">Musica</string>
+    <string name="aceptar">Aceptar</string>
+
+
+        <string-array name="Ciudades">
+            <item>Bogota</item>
+            <item>Medellin</item>
+            <item>Cali</item>
+            <item>Ibague</item>
+            <item>Cartagena</item>
+            <item>Barranquilla</item>
+            <item>Pereira</item>
+            <item>Manizales</item>
+        </string-array>
+
+</resources>
